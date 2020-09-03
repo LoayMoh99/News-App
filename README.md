@@ -3,7 +3,8 @@
 
 [Sanskar Tiwari](https://github.com/theindianappguy) ([@theindianappguy](https://twitter.com/Theindianappguy)) ([YouTube](https://www.youtube.com/c/SanskarTiwari))
 
-I just Edit some UI and added some features to the APP for Learning Purpose..
+I followe his tutorial and learned from it on Youtube.
+And I just Edit some UI and added some features to the APP for Learning Purpose..
 
 ### License
 
